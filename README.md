@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gunalan D
 =================================================================================================================================
 
-Software Developer - Python
+Software Development Engineer 
 ---------------------------
 
 Gunalan is a software engineer with three years of experience. His primary expertise lies in Python and backend development, and he possesses a strong grasp of data structures and algorithms, as well as a solid understanding of computer science fundamentals. He is also proficient in FastAPI, HTML, CSS, and JavaScript.
