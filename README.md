@@ -2,7 +2,7 @@
 
 # Software Engineer 2 | Backend Development 
 
-I'm a Software Development Engineer (SDE-2) with over 4.8 years of experience, specializing in backend development, Python, Django, and FastAPI. My passion lies in building scalable, efficient solutions that help businesses grow through innovative, well-architected software systems. I excel in microservices architecture, optimizing code for performance, and developing reliable solutions that improve productivity and scalability.
+I'm a Software Development Engineer (SDE-2) with over 5+ years of experience, specializing in backend development, Python, Django, and FastAPI. My passion lies in building scalable, efficient solutions that help businesses grow through innovative, well-architected software systems. I excel in microservices architecture, optimizing code for performance, and developing reliable solutions that improve productivity and scalability.
 
 One of the greatest joys in life is solving complex problems. The satisfaction of achievement and learning something new is what drives me. Skills can be learned and mastered, but attitude and the desire to grow is what I bring to the table.
 
